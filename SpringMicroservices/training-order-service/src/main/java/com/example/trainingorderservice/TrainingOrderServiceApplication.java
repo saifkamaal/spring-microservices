@@ -10,6 +10,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 @SpringBootApplication
 public class TrainingOrderServiceApplication {
 
+	//Comment
 	public static void main(String[] args) {
 		SpringApplication.run(TrainingOrderServiceApplication.class, args);
 	}
